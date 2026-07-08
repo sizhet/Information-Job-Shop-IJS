@@ -22,6 +22,10 @@ Its primary function is to continuously manufacture useful information for survi
 
 ---
 
+![Fig-004-The-Brain-as-an-Information-Job-Shop.png](./figures/Fig-004-The-Brain-as-an-Information-Job-Shop.png)
+
+---
+
 # The Brain Does Not Process Pixels
 
 Human vision illustrates an important observation.

@@ -20,6 +20,10 @@ This repository proposes the concept of an **Information Job Shop (IJS)** as a n
 
 ---
 
+![Fig-001-From-Physical-Jobs-to-Information-Jobs.png](./figures/Fig-001-From-Physical-Jobs-to-Information-Jobs.png)
+
+---
+
 # From Physical Jobs to Information Jobs
 
 Manufacturing systems organize production around **jobs**.

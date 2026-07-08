@@ -22,6 +22,10 @@ Information Job Shop (IJS) provides a simple engineering framework for understan
 
 ---
 
+![Fig-003-Information-Job-Runtime.png](./figures/Fig-003-Information-Job-Runtime.png)
+
+---
+
 # AI Is No Longer a Single Model
 
 Traditional AI discussions often focus on a single model.

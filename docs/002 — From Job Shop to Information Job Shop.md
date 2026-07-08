@@ -24,6 +24,10 @@ The only fundamental change is remarkably simple:
 
 ---
 
+![Fig-002-From-CPU-to-Information-Job-Shop.png](./figures/Fig-002-From-CPU-to-Information-Job-Shop.png)
+
+---
+
 # The Traditional Job Shop
 
 A traditional Job Shop consists of several essential components.

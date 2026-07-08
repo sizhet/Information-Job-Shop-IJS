@@ -26,6 +26,10 @@ Information Job Shop (IJS) represents one possible engineering framework for und
 
 ---
 
+![Fig-005-Toward-Information-Manufacturing.png](./figures/Fig-005-Toward-Information-Manufacturing.png)
+
+---
+
 # Beyond Instruction Execution
 
 For decades,
