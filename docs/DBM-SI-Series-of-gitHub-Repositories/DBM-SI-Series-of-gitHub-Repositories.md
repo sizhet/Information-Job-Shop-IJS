@@ -143,3 +143,7 @@
 45. AI Action Paths (AAP) - \
     From Capability Space to Human–AI Civilization \
     Repository: https://github.com/sizhet/AI-Action-Paths-AAP    
+    
+46. Information Job Shop (IJS) - \
+    From Von Neumann Computing to Information Manufacturing \
+    Repository: https://github.com/sizhet/Information-Job-Shop-IJS 
