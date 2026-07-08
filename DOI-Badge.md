@@ -1,26 +1,26 @@
 
 DOI
 
-10.5281/zenodo.21249447
+10.5281/zenodo.21269542
 
 Markdown
 
-[![DOI](https://zenodo.org/badge/1291481188.svg)](https://doi.org/10.5281/zenodo.21249446)
+[![DOI](https://zenodo.org/badge/1294238349.svg)](https://doi.org/10.5281/zenodo.21269541)
 
 reStructuredText
 
-.. image:: https://zenodo.org/badge/1291481188.svg
-  :target: https://doi.org/10.5281/zenodo.21249446
+.. image:: https://zenodo.org/badge/1294238349.svg
+  :target: https://doi.org/10.5281/zenodo.21269541
 
 HTML
 
-<a href="https://doi.org/10.5281/zenodo.21249446"><img src="https://zenodo.org/badge/1291481188.svg" alt="DOI"></a>
+<a href="https://doi.org/10.5281/zenodo.21269541"><img src="https://zenodo.org/badge/1294238349.svg" alt="DOI"></a>
 
 Image URL
 
-https://zenodo.org/badge/1291481188.svg
+https://zenodo.org/badge/1294238349.svg
 
 Target URL
 
-https://doi.org/10.5281/zenodo.21249446
+https://doi.org/10.5281/zenodo.21269541
 
