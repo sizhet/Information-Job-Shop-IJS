@@ -1,33 +1,33 @@
 {
-  "title": "AI Action Paths (AAP): From Human–AI Collective Learning to Autonomous Brain Unit Societies",
-  "publication_type": "report",
+  "title": "Information Job Shop (IJS): From Von Neumann Computing to Information Manufacturing",
+  "upload_type": "publication",
+  "publication_type": "workingpaper",
+  "description": "Information Job Shop (IJS) proposes a new engineering paradigm for future computing in which information itself becomes the computational workpiece. Extending the classical Job Shop concept from manufacturing engineering, IJS organizes heterogeneous computational resources—including LLMs, AI agents, software tools, human experts, and future Brain Units—around dynamically evolving Information Jobs. Rather than focusing solely on instruction execution, the framework views modern AI systems as Information Manufacturing systems capable of routing, planning, generating, verifying, and continuously refining information. This repository introduces Information Job Shop as a conceptual foundation for Information Manufacturing, Human-AI collaborative production, and future computational architectures.",
   "creators": [
     {
       "name": "Tan, Sizhe",
-      "affiliation": "Independent Researcher"
+      "affiliation": "Independent Researcher",
+      "orcid": ""
     }
   ],
-  "description": "AI Action Paths (AAP) proposes a structural framework for understanding the long-term evolution of Artificial Intelligence through Action Paths rather than model architectures alone. The repository introduces the Height–Breadth–Depth (HBD) Evaluation Framework and organizes AI evolution from LLM Scaling, Human–AI Discussion, Brain Units, AI Freelance Workers, and Unknown Gap Detection toward Hybrid AI Organizations and Human–AI Civilization. Rather than predicting a single future architecture, AAP provides a model-independent framework for analyzing, evaluating, and navigating multiple possible futures of Artificial Intelligence.",
-  "license": "Apache-2.0",
   "keywords": [
     "Artificial Intelligence",
-    "AI Action Paths",
-    "Action Space",
-    "Human-AI Collective Learning",
+    "Information Job Shop",
+    "Information Manufacturing",
+    "Information Jobs",
+    "Computing Architecture",
+    "Job Shop Scheduling",
+    "AI Agents",
+    "Large Language Models",
+    "Human-AI Collaboration",
     "Brain Units",
-    "Runtime Intelligence",
-    "Runtime Invariants",
-    "Structural Intelligence",
-    "Collective Learning",
-    "Hybrid AI Organizations",
-    "Human-AI Civilization",
-    "Height Breadth Depth",
-    "HBD Framework",
-    "AI Evaluation",
-    "Organizational Intelligence",
-    "AI Strategy"
+    "Runtime Systems",
+    "Computational Organization",
+    "Future Computing",
+    "Structural Intelligence"
   ],
-  "upload_type": "publication",
+  "license": "Apache-2.0",
   "language": "eng",
-  "access_right": "open"
+  "access_right": "open",
+  "version": "1.0.0"
 }
