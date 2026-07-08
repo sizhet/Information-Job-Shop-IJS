@@ -48,6 +48,10 @@ This repository introduces **Information Job Shop (IJS)** as an engineering fram
 
 ---
 
+![Fig-001-From-Physical-Jobs-to-Information-Jobs.png](./docs/figures/Fig-001-From-Physical-Jobs-to-Information-Jobs.png)
+
+---
+
 # The Central Idea
 
 Traditional manufacturing organizes production around **Jobs**.
@@ -115,6 +119,10 @@ The AI Age manufactures information.
 
 ---
 
+![Fig-002-From-CPU-to-Information-Job-Shop.png](./docs/figures/Fig-002-From-CPU-to-Information-Job-Shop.png)
+
+---
+
 # Why It Matters
 
 Modern AI systems already exhibit many characteristics of Information Job Shops.
@@ -153,6 +161,10 @@ it proposes a higher-level engineering organization for future computational sys
 Just as Job Shops transformed industrial manufacturing,
 
 Information Job Shops may transform computational manufacturing.
+
+---
+
+![Fig-003-Information-Job-Runtime.png](./docs/figures/Fig-003-Information-Job-Runtime.png)
 
 ---
 
