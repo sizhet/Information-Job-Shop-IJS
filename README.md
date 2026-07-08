@@ -6,7 +6,7 @@
 
 ---
 
-<p align="center">
+<p align="left">
 <b>A new engineering paradigm for organizing the manufacturing of information.</b>
 </p>
 
