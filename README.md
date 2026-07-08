@@ -2,13 +2,19 @@
 
 ## From Von Neumann Computing to Information Manufacturing
 
-> *The Industrial Age manufactured matter. The AI Age manufactures information.*
+> **The Industrial Age manufactured matter. The AI Age manufactures information.**
 
 ---
 
 <p align="center">
 <b>A new engineering paradigm for organizing the manufacturing of information.</b>
 </p>
+
+---
+
+> **Definition**
+
+> **Information Job Shop (IJS)** is a computational organization paradigm in which information itself becomes the workpiece processed, routed, verified, assembled, and manufactured by heterogeneous computational resources.
 
 ---
 
@@ -260,6 +266,35 @@ We hope this repository serves as a starting point for collective exploration ra
 
 > **The Industrial Age manufactured matter. The AI Age manufactures information. Information Job Shops may become the factories of the AI Age.**
 
+---
+
+# Future Directions
+
+Possible Future Research
+
+- Information Operating System
+
+- Information Compiler
+
+- Information Job Scheduling
+
+- Information Logistics
+
+- Information Warehouse
+
+- Information Version Control
+
+- Information Manufacturing Metrics
+
+- Information Manufacturing Economics
+
+- Information Manufacturing Security
+
+- Information Manufacturing Governance
+
+- Information Manufacturing Quality Assurance
+
+- Information Manufacturing Supply Chains
 
 ---
 
