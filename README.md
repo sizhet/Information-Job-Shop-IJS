@@ -16,6 +16,8 @@
 
 > **Information Job Shop (IJS)** is a computational organization paradigm in which information itself becomes the workpiece processed, routed, verified, assembled, and manufactured by heterogeneous computational resources.
 
+> **information Job Shop extends one of the most mature organizational paradigms in manufacturing engineering into the computational world.**
+
 ---
 
 ## Why This Repository?
@@ -282,6 +284,12 @@ We hope this repository serves as a starting point for collective exploration ra
 
 # Future Directions
 
+---
+
+![Fig-005-Toward-Information-Manufacturing.png](./docs/figures/Fig-005-Toward-Information-Manufacturing.png)
+
+---
+
 Possible Future Research
 
 - Information Operating System
@@ -307,6 +315,8 @@ Possible Future Research
 - Information Manufacturing Quality Assurance
 
 - Information Manufacturing Supply Chains
+
+- Information Manufacturing Standards
 
 ---
 
