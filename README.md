@@ -378,7 +378,9 @@ AI Research Assistant
 
 ## Citation
 
-DOI: 10.5281/zenodo.21269542
+DOI: 10.5281/zenodo.21269542 for v1.0.0
+
+DOI: 10.5281/zenodo.21285759 for v1.1.0
 
 ## License
 
