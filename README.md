@@ -233,6 +233,50 @@ Explores the future of:
 
 ---
 
+# New in Version 1.0.1 — Toward Autonomous Information Job Shop Evolution
+
+Version 1.0.1 extends the original Information Job Shop (IJS) framework from **Information Manufacturing** to **Autonomous Information Manufacturing**.
+
+The initial release established the Information Job Shop as a computational manufacturing architecture in which information pieces are transformed by processors through manufacturing-like workflows. The framework unified traditional software systems, AI pipelines, brain-inspired runtime architectures, and information processing under a common manufacturing perspective.
+
+Version 1.0.1 introduces the next conceptual step.
+
+---
+
+![Fig-006-Autonomous-Information-Job-Shop-Evolution-(AIJSE).png](./docs/figures/Fig-006-Autonomous-Information-Job-Shop-Evolution-(AIJSE).png)
+
+---
+
+Unlike physical manufacturing, information products remain computationally active after they are produced. They may participate in future computation, influence runtime Scheduler/Dispatcher decisions, update knowledge structures, modify processor parameters, generate new workflows, and even construct entirely new Information Job Shops.
+
+Consequently, the ultimate product of an Information Job Shop is no longer viewed as information alone.
+
+Instead, each manufacturing cycle continuously improves the system's capability to manufacture future information.
+
+This evolutionary perspective is formalized as **Autonomous Information Job Shop Evolution (AIJSE)**.
+
+AIJSE models Information Manufacturing as a continuous structural evolution process in which information, knowledge, processors, workflows, Scheduler/Dispatcher policies, and manufacturing architectures co-evolve through closed feedback loops.
+
+The two new figures introduced in Version 1.0.1 summarize this progression:
+
+- **Fig-006 — Autonomous Information Job Shop Evolution (AIJSE)** presents the complete closed-loop evolution architecture, illustrating how Information Job Shops continuously improve themselves through knowledge updates, runtime evolution, processor evolution, workflow generation, and Job Shop creation.
+
+- **Fig-007 — Evolution Levels of Information Manufacturing** presents a layered roadmap showing how information manufacturing evolves from simple information processing toward self-evolving Information Factories capable of generating increasingly capable Information Job Shops.
+
+These additions shift the focus of the repository from answering:
+
+> **What is an Information Job Shop?**
+
+to addressing a broader question:
+
+> **How do Information Job Shops continuously evolve into increasingly capable Information Manufacturing systems?**
+
+This evolution naturally connects the Information Job Shop framework with the broader Structural Intelligence research program, including Runtime Invariants (RI), Structural Cognitive Runtime (SCR), Structural Feasibility Confidence (SFC), Function Tunnel (FT), and AI Action Paths (AAP), providing a unified architectural perspective for future autonomous intelligent systems.
+
+Ultimately, the long-term vision of Information Manufacturing is not merely to automate information processing, but to enable information systems that continuously improve their own capability to manufacture future information.
+
+---
+
 # Key Contributions
 
 This repository proposes:
@@ -317,6 +361,8 @@ Possible Future Research
 - Information Manufacturing Supply Chains
 
 - Information Manufacturing Standards
+
+> **Information Manufacturing begins by producing information. It matures by producing knowledge, processors, and Information Job Shops. Its ultimate destination is the continuous evolution of increasingly capable Information Manufacturing systems.**
 
 ---
 

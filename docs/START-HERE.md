@@ -156,6 +156,42 @@ This figure summarizes the complete vision presented by this repository.
 
 ---
 
+## New in Version 1.0.1 — Autonomous Information Job Shop Evolution (AIJSE)
+
+Version 1.0.1 expands the original Information Job Shop (IJS) framework by introducing **Autonomous Information Job Shop Evolution (AIJSE)**.
+
+The first release focused on answering:
+
+> **What is an Information Job Shop?**
+
+Version 1.0.1 addresses the next natural question:
+
+> **How do Information Job Shops continuously evolve into increasingly capable Information Manufacturing systems?**
+
+Unlike traditional manufacturing, information products remain computationally active after they are produced. They may participate in future computation, update knowledge structures, modify processors, influence runtime Scheduler/Dispatcher decisions, generate new workflows, and even construct entirely new Information Job Shops.
+
+Consequently, Information Manufacturing becomes a continuous self-improving process rather than a one-way production pipeline.
+
+Two new figures summarize this evolution:
+
+- **Fig-006 — Autonomous Information Job Shop Evolution (AIJSE)**
+  - Presents the complete closed-loop architecture of self-evolving Information Manufacturing.
+
+- **Fig-007 — Evolution Levels of Information Manufacturing**
+  - Illustrates the long-term evolution path from information processing to self-evolving Information Factories.
+
+For new readers, the recommended reading order is:
+
+1. Read the README for the overall motivation.
+2. Review **Fig-001** through **Fig-005** to understand the foundations of Information Job Shops.
+3. Study **Fig-006** to understand the AIJSE closed-loop evolution architecture.
+4. Study **Fig-007** to understand the long-term evolution roadmap.
+5. Read **IJS-011 — Autonomous Information Job Shop Evolution (AIJSE)** for the complete conceptual framework.
+
+Together, these additions extend the repository from an architectural description of Information Manufacturing toward a broader evolutionary framework for future autonomous intelligent systems.
+
+---
+
 # What This Repository Is
 
 This repository proposes:
@@ -210,3 +246,9 @@ it proposes a new engineering direction that we hope will stimulate broader disc
 > **The Industrial Age manufactured matter. The AI Age manufactures information. Information Job Shops may become the factories of the AI Age.**
 
 We hope this repository serves as one possible starting point for that future.
+
+---
+
+> **Suggested reading progression**
+
+> **Physical Job Shops → Information Job Shops → Information Manufacturing → Autonomous Information Job Shop Evolution → Future Autonomous Information Factories**
